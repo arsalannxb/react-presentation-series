@@ -1,0 +1,10 @@
+.App{
+  margin-top:50px;
+}
+
+.action-box{
+  text-align: center;
+}
+.action-box button{
+  margin-left:10px;
+}
